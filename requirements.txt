@@ -1,0 +1,6 @@
+streamlit
+numpy 
+datetime
+matplotlib
+joblib
+xgboost
